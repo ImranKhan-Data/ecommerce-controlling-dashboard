@@ -1,0 +1,13 @@
+# Raw data is too large for GitHub (download it from Kaggle, see README)
+data/raw/*
+!data/raw/.gitkeep
+
+# SQLite database files (rebuilt from the SQL scripts)
+*.db
+*.sqlite
+
+# Mac system files
+.DS_Store
+
+# Excel temporary files
+~$*
