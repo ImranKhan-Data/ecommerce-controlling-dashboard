@@ -11,3 +11,4 @@ data/raw/*
 
 # Excel temporary files
 ~$*
+data/processed/*.csv
